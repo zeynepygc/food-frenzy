@@ -51,6 +51,7 @@ Sound effects & feedback
 UI polish
 
 📷 Screenshot
-![Gameplay 1](gameplay1.png)
-
-![Gameplay 2](gameplay2.png)
+<p align="center">
+  <img src="gameplay1.png" width="400"/>
+  <img src="gameplay2.png" width="400"/>
+</p>
