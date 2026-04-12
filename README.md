@@ -1,31 +1,31 @@
 🎮 Food Frenzy
 
-A fast-paced top-down arcade game built with Unity.
+a fast-paced top-down arcade game built with Unity.
 
 🕹️ Game Overview
 
-In Food Frenzy, animals spawn from the top, left, and right sides of the screen every 1.5 seconds.
-Your mission is simple:
+in Food Frenzy, animals spawn from the top, left, and right sides of the screen every 1.5 seconds.
+your mission is simple:
 
-Feed every animal before they escape.
+feed every animal before they escape.
 
-Press Spacebar to throw a steak.
-If you hit an animal, it disappears.
-Miss too many… and it's Game Over.
+press Spacebar to throw a steak.
+if you hit an animal, it disappears.
+miss too many… and it's game over.
 
 🎯 Core Mechanics
 
 3 different animal types
 
-Multi-directional spawning (top, left, right)
+multi-directional spawning (top, left, right)
 
-Projectile-based feeding mechanic
+projectile-based feeding mechanic
 
-Collision detection system
+collision detection system
 
-Game Over condition
+game over condition
 
-Continuous spawn loop (1.5s interval)
+continuous spawn loop (1.5s interval)
 
 🎮 Controls
 Key	Action
